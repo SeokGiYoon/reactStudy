@@ -7,12 +7,12 @@ class App extends Component {
   state = {
       information : [{
         id : 0
-        ,name:'seokgi'
+        ,name:'a'
         ,phone:'010-000-0000'
       },
       {
         id : 1
-        ,name:'mariko'
+        ,name:'b'
         ,phone:'010-111-1111'
       }
     ]
